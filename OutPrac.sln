@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutPrac", "OutPrac\OutPrac.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrucPrac", "StrucPrac\StrucPrac.csproj", "{A812AFEC-8968-4573-A736-0315CD63F9F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuStatusPrac", "MenuStatusPrac\MenuStatusPrac.csproj", "{CE5BA4CB-7A2D-4167-9A18-0665E5ADE2CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A812AFEC-8968-4573-A736-0315CD63F9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A812AFEC-8968-4573-A736-0315CD63F9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A812AFEC-8968-4573-A736-0315CD63F9F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5BA4CB-7A2D-4167-9A18-0665E5ADE2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5BA4CB-7A2D-4167-9A18-0665E5ADE2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5BA4CB-7A2D-4167-9A18-0665E5ADE2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5BA4CB-7A2D-4167-9A18-0665E5ADE2CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
